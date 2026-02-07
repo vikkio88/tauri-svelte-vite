@@ -1,10 +1,11 @@
 {
-  "name": "katoo",
+  "name": "APPNAME",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "bun tauri dev",
+    "compile": "bun tauri build",
     "dev:web": "vite",
     "build": "vite build",
     "preview": "vite preview",
