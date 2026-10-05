@@ -1,0 +1,3 @@
+{
+  "db:gen": "drizzle-kit generate --name='db_generate'"
+}
